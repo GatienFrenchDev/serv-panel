@@ -1,0 +1,1 @@
+echo bjr > fichier_test.txt
